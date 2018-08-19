@@ -7,3 +7,4 @@ ng g c home --spec=false
 ng g c list --spec=false
 ng g c item --spec=false
 
+angular监听屏幕滚动到底部
